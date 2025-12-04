@@ -3,7 +3,6 @@
     <img src="public/assets/images/main-dashboard.png" alt="Main Dashboard" width = "90%">
     <img src="public/assets/images/stock-details.png" alt="Stock Details" width = "90%">
   <br />
-
   <div>
 
   <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black"/>
