@@ -1,11 +1,8 @@
 <div align="center">
   <br />
-  <div style="display: flex; justify-content: center; gap: 15px;">
-    <img src="public/assets/images/main-dashboard.png" alt="Main Dashboard" width="50%" style="border-radius: 8px;"><br/>
-    <img src="public/assets/images/stock-details.png" alt="Stock Details" width="50%" style="border-radius: 8px;">
-  </div>
+    <img src="public/assets/images/main-dashboard.png" alt="Main Dashboard">
+    <img src="public/assets/images/stock-details.png" alt="Stock Details">
   <br />
-
   <div>
 
   <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black"/>
